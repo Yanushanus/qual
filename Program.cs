@@ -6,7 +6,9 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            char a = (char)48;
+            char b = '0';
+            Console.WriteLine($"a={a} b={b}");
         }
     }
 }
